@@ -19,6 +19,6 @@ plugins:
 
 header_pages:
   - index.md
-  - ai.md
+  - musings.md
 
 permalink: pretty
