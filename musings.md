@@ -3,7 +3,7 @@ layout: page
 title: Musings
 ---
 
-## Musings on AI & Digitalization
+## Musings on New Things
 
 This is where I’ll occasionally post thoughts and reflections on AI, digital transformation, and how these themes intersect with economics, consumer behavior, and finance.
 
