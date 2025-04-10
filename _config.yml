@@ -1,9 +1,9 @@
 title: Rita Cui
-description: PhD Student in Finance · Behavioral & Household Finance
+description: PhD Student in Finance
 url: "https://ritacui.github.io"
 baseurl: ""
 lang: en
-theme: klise
+remote_theme: piharpi/jekyll-klise
 
 author:
   name: Rita Cui
@@ -19,4 +19,6 @@ plugins:
 
 header_pages:
   - index.md
-  - ai.md      # 👈 new tab!
+  - ai.md
+
+permalink: pretty
