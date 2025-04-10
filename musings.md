@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Musings on AI/Digitalization
+title: Musings
 ---
 
 ## Musings on AI & Digitalization
