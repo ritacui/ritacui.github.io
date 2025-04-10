@@ -1,2 +1,12 @@
-title: Rita Cui
-theme: jekyll-theme-cayman
+title: "Rita Cui"
+email: "rita.cui@upenn.com"
+description: >-
+  Personal website for Rita Cui.
+baseurl: "" 
+url: "https://ritacui.github.io"
+theme: minima
+markdown: kramdown
+
+# Optional navigation bar
+header_pages:
+  - index.md
