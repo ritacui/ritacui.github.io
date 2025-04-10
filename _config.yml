@@ -1,12 +1,18 @@
-title: "Rita Cui"
-email: "rita.cui@upenn.com"
-description: >-
-  Personal website for Rita Cui.
-baseurl: "" 
+title: Rita Cui
+description: PhD Student in Finance · Behavioral & Household Finance
 url: "https://ritacui.github.io"
-theme: minima
-markdown: kramdown
+baseurl: ""
+lang: en
+theme: klise
 
-# Optional navigation bar
-header_pages:
-  - index.md
+author:
+  name: Rita Cui
+  bio: PhD Student · Household & Behavioral Finance
+  github: ritacui
+  email: your@email.com
+  linkedin: your-linkedin
+  cv: /assets/files/cv.pdf
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
